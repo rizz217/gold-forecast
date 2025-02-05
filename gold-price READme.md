@@ -56,9 +56,8 @@ Predicted Gold Price in 7 days: $1923.45
 🌐 Deploy to a cloud server (AWS/GCP/Heroku)
 
 ## Author
-- **Your Name**  
-- LinkedIn: [Your Profile](https://linkedin.com/in/your-profile)
-- GitHub: [Your GitHub](https://github.com/your-username)
+- LinkedIn: https://linkedin.com/in/risam-abdurazak
+- GitHub: https://github.com/rizz217
 
 ---
 ### ⭐ Star this repo if you found it useful! ⭐
